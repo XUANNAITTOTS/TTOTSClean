@@ -1,0 +1,212 @@
+========================================
+========================================
+
+        TTOTSclean 软件许可协议与免责声明
+        TTOTSclean Software License Agreement and Disclaimer
+
+========================================
+========================================
+
+版本：1.01.157
+Version: 1.01.157
+
+公司主体：TTOTS
+Company: TTOTS
+
+开发者：XUANNAI
+Developer: XUANNAI
+
+发布日期：2026年10月5日
+Release Date: October 5, 2026
+
+一、重要提示
+I. Important Notice
+
+本《软件许可协议与免责声明》（以下简称“本协议”）适用于您下载、安装、复制、使用、分发 TTOTSclean 软件（以下简称“本软件”）的行为。
+This Software License Agreement and Disclaimer (hereinafter referred to as the "Agreement") applies to your downloading, installing, copying, using, and distributing of TTOTSclean software (hereinafter referred to as the "Software").
+
+请您在使用本软件前仔细阅读本协议，尤其是以显著方式提示的免责条款、责任限制条款和使用限制条款。
+Please read this Agreement carefully before using the Software, especially the disclaimer, limitation of liability, and usage restriction clauses highlighted in a prominent manner.
+
+一旦您下载、安装、运行、复制或以任何方式使用本软件，即视为您已充分阅读、理解并同意接受本协议全部条款的约束。
+By downloading, installing, running, copying, or otherwise using the Software, you are deemed to have fully read, understood, and agreed to be bound by all terms of this Agreement.
+
+如您不同意本协议的任何内容，请立即停止使用本软件，并删除所有相关副本。
+If you do not agree to any part of this Agreement, please immediately stop using the Software and delete all related copies.
+
+二、软件性质
+II. Nature of the Software
+
+本软件由 XUANNAI 开发，TTOTS 作为公司主体发布。
+The Software is developed by XUANNAI and released by TTOTS as the corporate entity.
+
+本软件是一款用于清理计算机临时文件、缓存及无用数据的系统清理工具。
+The Software is a system cleaning tool designed to remove temporary files, caches, and unnecessary data from computers.
+
+本软件按“原样”提供，不提供任何形式的明示或暗示保证。
+The Software is provided "as is" without any express or implied warranties of any kind.
+
+三、知识产权
+III. Intellectual Property Rights
+
+本软件的全部知识产权，包括但不限于源代码、程序文件、图标、界面设计、文档、版本号、商标及相关标识，均归 TTOTS 所有，受中华人民共和国著作权法及相关法律法规保护。
+All intellectual property rights in the Software, including but not limited to source code, program files, icons, interface designs, documentation, version numbers, trademarks, and related identifiers, belong to TTOTS and are protected by the Copyright Law of the People's Republic of China and other applicable laws and regulations.
+
+除本协议明确授予您的权利外，TTOTS 未以任何形式向您转让本软件的知识产权。
+Except for the rights expressly granted to you under this Agreement, TTOTS has not transferred any intellectual property rights in the Software to you in any form.
+
+四、许可授予
+IV. License Grant
+
+在遵守本协议的前提下，TTOTS 授予您一项非独占、不可转让、不可分许可、免费的有限使用许可，允许您在个人计算机上安装和使用本软件。
+Subject to your compliance with this Agreement, TTOTS grants you a non-exclusive, non-transferable, non-sublicensable, royalty-free, limited license to install and use the Software on your personal computer.
+
+您可以将本软件以未修改的原始形式分发给他人，但分发时必须同时附带本协议及本软件的全部原始文件，不得删除或更改任何版权声明、许可声明、版本信息或开发者署名。
+You may distribute the Software to others in its original, unmodified form, provided that such distribution includes this Agreement and all original files of the Software, and that no copyright notices, license statements, version information, or developer attributions are removed or altered.
+
+五、使用限制
+V. Usage Restrictions
+
+您不得，也不得允许他人：
+You shall not, nor permit others to:
+
+1. 对本软件进行反向工程、反编译、反汇编，或试图获取本软件的源代码；
+1. Reverse engineer, decompile, disassemble, or otherwise attempt to derive the source code of the Software;
+
+2. 修改、篡改、删除或遮盖本软件中的版权声明、版本信息、开发者署名、公司标识或其他权利声明；
+2. Modify, tamper with, remove, or obscure any copyright notices, version information, developer attributions, company identifiers, or other rights statements in the Software;
+
+3. 将本软件用于任何违法、侵权、破坏计算机信息系统、窃取数据、绕过安全防护或损害他人合法权益的目的；
+3. Use the Software for any unlawful, infringing, or harmful purposes, including damaging computer information systems, stealing data, bypassing security protections, or harming the legitimate rights and interests of others;
+
+4. 将本软件用于医疗、核设施、航空控制、军事系统等高风险场景；
+4. Use the Software in high-risk scenarios such as medical systems, nuclear facilities, aviation control, or military systems;
+
+5. 未经 TTOTS 书面许可，将本软件用于商业销售、商业捆绑、付费下载或其他商业营利活动；
+5. Use the Software for commercial sales, commercial bundling, paid downloads, or other commercial profit-making activities without prior written permission from TTOTS;
+
+6. 利用本软件收集、窃取、破坏或未经授权访问他人数据、文件或系统权限；
+6. Use the Software to collect, steal, damage, or gain unauthorized access to others' data, files, or system permissions;
+
+7. 将本软件伪装、重命名或包装为其他软件进行传播。
+7. Disguise, rename, or repackage the Software as other software for distribution.
+
+六、安全与误报说明
+VI. Security and False Positive Notice
+
+本软件使用 PyInstaller 等工具打包生成可执行文件。
+The Software is packaged into executable files using tools such as PyInstaller.
+
+由于打包机制、缺少商业代码签名证书以及部分安全软件的启发式检测规则，本软件可能被个别杀毒软件或安全工具误判为风险程序。
+Due to packaging mechanisms, the absence of a commercial code signing certificate, and heuristic detection rules used by certain security software, the Software may be mistakenly flagged as a risky program by some antivirus or security tools.
+
+此类误报并不必然代表本软件存在恶意行为。
+Such false positives do not necessarily indicate that the Software contains malicious behavior.
+
+建议用户通过 VirusTotal 等多引擎平台进行交叉检测，并在确认文件来源可信后，将本软件添加至安全软件信任列表。
+Users are advised to perform cross-checks through multi-engine platforms such as VirusTotal and, after confirming the file source is trusted, add the Software to their security software’s trust list.
+
+但 TTOTS 不对任何安全软件的检测结果、拦截行为、隔离删除、系统兼容性或由此产生的使用障碍承担保证责任。
+However, TTOTS does not warrant or assume responsibility for detection results, blocking actions, quarantine or deletion, system compatibility, or any usage obstacles caused by third-party security software.
+
+七、数据与隐私
+VII. Data and Privacy
+
+本软件仅在您主动使用清理功能时，对本机指定目录中的临时文件、缓存或无用数据进行扫描和删除。
+The Software scans and deletes temporary files, caches, or unnecessary data in specified local directories only when you actively use its cleaning functions.
+
+TTOTS 不会通过本软件主动收集、上传、存储或共享您的个人信息、文件内容、账号密码、浏览记录或其他隐私数据。
+TTOTS will not actively collect, upload, store, or share your personal information, file contents, account credentials, browsing history, or other private data through the Software.
+
+但您应知悉，清理操作可能导致文件被永久删除。
+However, you should be aware that cleaning operations may permanently delete files.
+
+请您在使用前自行备份重要数据。
+Please back up important data before using the Software.
+
+因未及时备份、误删文件、清理范围选择不当、权限配置错误或系统异常导致的数据丢失、损坏或无法恢复，TTOTS 不承担赔偿责任。
+TTOTS shall not be liable for any data loss, damage, or inability to recover data caused by failure to back up data in time, accidental deletion, improper selection of cleaning scope, incorrect permission settings, or system abnormalities.
+
+八、免责声明
+VIII. Disclaimer of Warranties
+
+本软件按“原样”提供，不提供任何明示或暗示的保证，包括但不限于适销性、特定用途适用性、稳定性、安全性、准确性、无错误运行或不中断运行的保证。
+The Software is provided "as is" without any express or implied warranties, including but not limited to warranties of merchantability, fitness for a particular purpose, stability, security, accuracy, error-free operation, or uninterrupted operation.
+
+您使用本软件的风险由您自行承担。
+You use the Software at your own risk.
+
+TTOTS 不对因使用或无法使用本软件而产生的任何直接、间接、偶然、特殊、附带或后果性损失承担责任，包括但不限于利润损失、商业中断、数据丢失、设备故障、系统损坏、第三方索赔或其他经济损失。
+TTOTS shall not be liable for any direct, indirect, incidental, special, consequential, or punitive damages arising from the use or inability to use the Software, including but not limited to loss of profits, business interruption, data loss, equipment failure, system damage, third-party claims, or other economic losses.
+
+在法律允许的范围内，TTOTS 的责任上限为您为获取本软件实际支付的费用；如本软件为免费提供，则 TTOTS 不承担任何金钱赔偿责任。
+To the maximum extent permitted by law, TTOTS’ total liability shall not exceed the amount actually paid by you to obtain the Software; if the Software is provided free of charge, TTOTS shall not bear any monetary liability.
+
+但本协议不免除 TTOTS 因故意或重大过失造成您人身损害或财产损失时依法应承担的责任，也不免除法律法规明确规定不得免除的其他责任。
+However, this Agreement does not exclude TTOTS’ legal liability for personal injury or property damage caused by its intentional misconduct or gross negligence, nor does it exclude any other liabilities that cannot be excluded under applicable laws and regulations.
+
+九、用户责任
+IX. User Responsibility
+
+您应确保自己有权在目标计算机上安装和使用本软件，并保证使用行为符合所在地法律法规。
+You shall ensure that you have the right to install and use the Software on the target computer and that your use complies with applicable local laws and regulations.
+
+如因您违反本协议、违反法律法规、擅自修改本软件、将本软件用于非法用途，或因您操作不当导致任何损失、纠纷或第三方索赔，均由您自行承担责任；如因此给 TTOTS 或 XUANNAI 造成损失，您应予以赔偿。
+You shall bear sole responsibility for any losses, disputes, or third-party claims arising from your breach of this Agreement, violation of laws, unauthorized modification of the Software, illegal use of the Software, or improper operation; you shall indemnify TTOTS and XUANNAI for any losses caused thereby.
+
+十、协议变更
+X. Changes to the Agreement
+
+TTOTS 有权根据需要更新本协议。
+TTOTS reserves the right to update this Agreement as needed.
+
+更新后的协议将通过发布页面、压缩包内文件或其他合理方式提供。
+Updated versions of this Agreement will be made available through the release page, files included in the archive, or other reasonable means.
+
+协议更新后，若您继续使用本软件，即视为您接受更新后的协议内容；若您不同意更新内容，应停止使用并删除本软件。
+If you continue to use the Software after the Agreement is updated, you will be deemed to have accepted the updated terms; if you do not agree to the updated terms, you must stop using and delete the Software.
+
+十一、协议终止
+XI. Termination
+
+如您违反本协议任何条款，本协议将自动终止。
+This Agreement will automatically terminate if you violate any of its terms.
+
+终止后，您应立即停止使用本软件，并删除所有副本及相关文件。
+Upon termination, you must immediately stop using the Software and delete all copies and related files.
+
+协议终止不影响终止前已产生的权利义务，也不影响本协议中依法应当继续有效的条款。
+Termination shall not affect rights and obligations accrued prior to termination, nor shall it affect any provisions of this Agreement that are required by law to remain in effect.
+
+十二、法律适用与争议解决
+XII. Governing Law and Dispute Resolution
+
+本协议的订立、解释、执行及争议解决，适用中华人民共和国法律。
+The formation, interpretation, performance, and dispute resolution of this Agreement shall be governed by the laws of the People's Republic of China.
+
+因本协议引起的或与本协议有关的争议，双方应首先友好协商解决；协商不成的，任何一方均有权向 TTOTS 所在地有管辖权的人民法院提起诉讼。
+Any disputes arising from or related to this Agreement shall first be resolved through friendly negotiation; if negotiation fails, either party may bring a lawsuit before the competent people's court at the location of TTOTS.
+
+十三、其他
+XIII. Miscellaneous
+
+1. 本协议构成您与 TTOTS 之间关于本软件使用的完整协议，取代此前任何口头或书面说明。
+1. This Agreement constitutes the entire agreement between you and TTOTS regarding the use of the Software and supersedes any prior oral or written statements.
+
+2. 本协议任何条款被认定为无效或不可执行，不影响其他条款的效力。
+2. If any provision of this Agreement is held to be invalid or unenforceable, the remaining provisions shall remain in full force and effect.
+
+3. 本协议中英文版本如有不一致，以中文版本为准。
+3. In case of any inconsistency between the Chinese and English versions of this Agreement, the Chinese version shall prevail.
+
+========================================
+========================================
+
+         Copyright  2026 TTOTS. All Rights Reserved.
+         Copyright  2026 TTOTS. All Rights Reserved.
+
+         Developed by XUANNAI.
+         Developed by XUANNAI.
+
+========================================
+========================================
